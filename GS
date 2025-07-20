@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Cosmote Sport 1 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=622
+#EXTINF:-1,Cosmote Sport 2 HD 
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=623
+#EXTINF:-1,Cosmote Sport 3 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=624
+#EXTINF:-1,Cosmote Sport 4 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=625
+#EXTINF:-1,Cosmote Sport 5 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=626
+#EXTINF:-1,Cosmote Sport 6 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=627
+#EXTINF:-1,Cosmote Sport 7 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=628
+#EXTINF:-1,Cosmote Sport 8 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=629
+#EXTINF:-1,Cosmote Sport 9 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=630
+#EXTINF:-1,Nova Sports Prime HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=638
+#EXTINF:-1,Nova Sports Start HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=637
+#EXTINF:-1,Nova Sports Premier League HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=599
+#EXTINF:-1,Nova Sports 1 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=631
+#EXTINF:-1,Nova Sports 2 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=632
+#EXTINF:-1,Nova Sports 3 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=633
+#EXTINF:-1,Nova Sports 4 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=634
+#EXTINF:-1,Nova Sports 5 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=635
+#EXTINF:-1,Nova Sports 6 HD
+https://fnjplay.xyz/premiumtv/daddylivehd.php?id=636
