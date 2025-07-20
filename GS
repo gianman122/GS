@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Cosmote Sport 1 HD
-https://xyzdddd.mizhls.ru/lb/premium622/index.m3u8
+https://xyzdddd.mizhls.ru/lb/premium622/chunks.m3u8
 #EXTINF:-1,Cosmote Sport 2 HD 
 https://xyzdddd.mizhls.ru/lb/premium623/index.m3u8
 #EXTINF:-1,Cosmote Sport 3 HD
