@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1,Cosmote Sport 1 HD
-https://fnjplay.xyz/premiumtv/daddylivehd.php?id=622
+https://xyzdddd.mizhls.ru/lb/premium622/index.m3u8
 #EXTINF:-1,Cosmote Sport 2 HD 
-https://fnjplay.xyz/premiumtv/daddylivehd.php?id=623
+https://xyzdddd.mizhls.ru/lb/premium623/index.m3u8
 #EXTINF:-1,Cosmote Sport 3 HD
-https://fnjplay.xyz/premiumtv/daddylivehd.php?id=624
+https://xyzdddd.mizhls.ru/lb/premium624/index.m3u8
 #EXTINF:-1,Cosmote Sport 4 HD
-https://fnjplay.xyz/premiumtv/daddylivehd.php?id=625
+https://xyzdddd.mizhls.ru/lb/premium625/index.m3u8
 #EXTINF:-1,Cosmote Sport 5 HD
-https://fnjplay.xyz/premiumtv/daddylivehd.php?id=626
+https://xyzdddd.mizhls.ru/lb/premium626/index.m3u8
 #EXTINF:-1,Cosmote Sport 6 HD
-https://fnjplay.xyz/premiumtv/daddylivehd.php?id=627
+https://xyzdddd.mizhls.ru/lb/premium627/index.m3u8
 #EXTINF:-1,Cosmote Sport 7 HD
-https://fnjplay.xyz/premiumtv/daddylivehd.php?id=628
+https://xyzdddd.mizhls.ru/lb/premium628/index.m3u8
 #EXTINF:-1,Cosmote Sport 8 HD
-https://fnjplay.xyz/premiumtv/daddylivehd.php?id=629
+https://xyzdddd.mizhls.ru/lb/premium629/index.m3u8
 #EXTINF:-1,Cosmote Sport 9 HD
-https://fnjplay.xyz/premiumtv/daddylivehd.php?id=630
+https://xyzdddd.mizhls.ru/lb/premium630/index.m3u8
 #EXTINF:-1,Nova Sports Prime HD
-https://fnjplay.xyz/premiumtv/daddylivehd.php?id=638
+https://xyzdddd.mizhls.ru/lb/premium638/index.m3u8
 #EXTINF:-1,Nova Sports Start HD
 https://fnjplay.xyz/premiumtv/daddylivehd.php?id=637
 #EXTINF:-1,Nova Sports Premier League HD
